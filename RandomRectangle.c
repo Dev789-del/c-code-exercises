@@ -1,5 +1,4 @@
-// English: C program to print a rectangle of # with input two numbers
-// Vietnamese: Chương trình tạo hình chữ nhật thăng
+//C program to print a rectangle of # with input two numbers
 #include<stdio.h>
 int main()
 {
